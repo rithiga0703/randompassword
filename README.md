@@ -93,3 +93,4 @@ CONCLUSION :
 
 The Random Password Generator project demonstrates the practical use of Python for everyday digital security needs. The beginner version reinforces fundamental coding skills, while the advanced GUI version expands into user interface design and enhanced features. This project effectively showcases knowledge in Python, GUI programming, and password security, making it an excellent addition to academic submissions and portfolios.
 
+Author Rithiga L BCA UnderGraduate | Python Beginner | Python Enthusiast
